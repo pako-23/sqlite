@@ -1622,6 +1622,7 @@ static void ctimestampFunc(
 
 #ifdef FREEBSD_KERNEL
 
+// TODO: Not implemented
 static void currentTimeFunc(
   sqlite3_context *context,
   int argc,
